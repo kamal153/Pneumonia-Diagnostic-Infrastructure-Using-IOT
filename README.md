@@ -15,14 +15,14 @@ Pneumonia has been labelled as the single largest cause of child mortalityfor th
 ➢The device would also have alarm modes to alert parents to sudden onset offever or difficulty breathing.
 
 # Hardware Requirements
-  1.Micro-controller – ESP 32 \
-  2.MAX30105 – Pulse Oxymeter \
-  3.AD8232 – ECG Sensor \
-  4.LM35 – Temperature Sensor \
-  5.HR202 – Humidity Sensor \
-  6.PLSNSR1 – Heart Rate Sensor
+  1. Micro-controller – ESP 32 \
+  2. MAX30105 – Pulse Oxymeter \
+  3. AD8232 – ECG Sensor \
+  4. LM35 – Temperature Sensor \
+  5. HR202 – Humidity Sensor \
+  6. PLSNSR1 – Heart Rate Sensor
   
 # Software Requirements
-  1.Android Version (above lollipop) \
-  2.iOS 6 or above \
-  3.Any standard web browser 
+  1. Android Version (above lollipop) \
+  2. iOS 6 or above \
+  3. Any standard web browser 
